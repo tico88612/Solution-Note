@@ -43,6 +43,7 @@ int main(){
 				cout<<i<<'\n';
 		}
 		if(i>9999999) break; //What the Fuxk is that??
+		// https://www.twblogs.net/a/5c974627bd9eee491b623b86/zh-cn
 	}
 	// }
 	return 0;
